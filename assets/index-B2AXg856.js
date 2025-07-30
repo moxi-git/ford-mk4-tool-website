@@ -199,6 +199,7 @@ git clone https://github.com/moxi-git/ford-mk4-tool.git`)},[]),D=Q>50?"bg-black/
         .glass-strong {
           background: rgba(255, 255, 255, 0.06);
           backdrop-filter: blur(35px) saturate(200%);
+          -webkit-backdrop-filter: blur(35px) saturate(200%);
           border: 1px solid rgba(255, 255, 255, 0.12);
           box-shadow: 
             0 16px 48px rgba(0, 0, 0, 0.5),
