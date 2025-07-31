@@ -366,7 +366,7 @@ const FordMK4Landing: React.FC = () => {
           </h1>
           
           <p className="text-lg sm:text-xl md:text-2xl lg:text-3xl text-white/60 mb-8 sm:mb-12 md:mb-16 max-w-4xl mx-auto font-light tracking-tight leading-relaxed">
-            Professional diagnostic software engineered for Ford MK4 generation vehicles
+            "Professional" diagnostic software engineered for Ford MK4 generation vehicles
           </p>
           
           <div className="inline-flex items-center glass-warning warning-banner text-red-400 px-6 sm:px-8 py-3 sm:py-4 rounded-full font-semibold mb-8 sm:mb-12 md:mb-16 tracking-wide text-sm sm:text-base">
