@@ -4,4 +4,4 @@ a website for [Ford-MK4-Tool](https://github.com/moxi-git/ford-mk4-tool)
 
 
 > [!IMPORTANT]
-> the tool is soon would public but still untested
+> the tool is public but still untested
